@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinvemuri/module10.git"
+  },
+  "keywords": [
+    "nv"
+  ],
+  "author": "nv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinvemuri/module10/issues"
+  },
+  "homepage": "https://github.com/nitinvemuri/module10#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
